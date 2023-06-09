@@ -1,6 +1,12 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+## Tripy Landing
 
-## Getting Started
+#### Preview
+
+<div align="center">
+ <img src="https://github.com/aftabrehan/tripy-landing/assets/93012310/b39d1b33-6012-4ada-a820-8953e0cbaa8d" alt="Tripy Landing Page" />
+</div>
+
+This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 First, run the development server:
 
